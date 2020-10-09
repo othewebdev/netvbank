@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACI,qBAAsB,CACtB,QAAS,CACT,SAAU,CACV,8BACJ","file":"main.7b6cae3b.chunk.css","sourcesContent":["*{\r\n    box-sizing: border-box;\r\n    margin: 0;\r\n    padding: 0;\r\n    font-family: 'Arimo', sans-serif;\r\n}"]}
