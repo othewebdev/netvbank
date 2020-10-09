@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/netvbank/static/css/main.7b6cae3b.chunk.css",
-    "main.js": "/netvbank/static/js/main.2ab93887.chunk.js",
-    "main.js.map": "/netvbank/static/js/main.2ab93887.chunk.js.map",
+    "main.js": "/netvbank/static/js/main.b1d1dda3.chunk.js",
+    "main.js.map": "/netvbank/static/js/main.b1d1dda3.chunk.js.map",
     "runtime-main.js": "/netvbank/static/js/runtime-main.be9409d5.js",
     "runtime-main.js.map": "/netvbank/static/js/runtime-main.be9409d5.js.map",
     "static/js/2.57b15363.chunk.js": "/netvbank/static/js/2.57b15363.chunk.js",
     "static/js/2.57b15363.chunk.js.map": "/netvbank/static/js/2.57b15363.chunk.js.map",
     "index.html": "/netvbank/index.html",
-    "precache-manifest.ee02cbc8137a7eedcc5a0c15eb48ac45.js": "/netvbank/precache-manifest.ee02cbc8137a7eedcc5a0c15eb48ac45.js",
+    "precache-manifest.15d13cb3d916e87f20d1901cac746316.js": "/netvbank/precache-manifest.15d13cb3d916e87f20d1901cac746316.js",
     "service-worker.js": "/netvbank/service-worker.js",
     "static/css/main.7b6cae3b.chunk.css.map": "/netvbank/static/css/main.7b6cae3b.chunk.css.map",
     "static/js/2.57b15363.chunk.js.LICENSE.txt": "/netvbank/static/js/2.57b15363.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.be9409d5.js",
     "static/js/2.57b15363.chunk.js",
     "static/css/main.7b6cae3b.chunk.css",
-    "static/js/main.2ab93887.chunk.js"
+    "static/js/main.b1d1dda3.chunk.js"
   ]
 }
