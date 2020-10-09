@@ -35,7 +35,6 @@ const HeroSection = () => {
                       onMouseLeave={onHover}
                       primary='true'
                       dark='true'
-                      to="about"
                             smooth={true}
                             duration={675}
                             spy={true}

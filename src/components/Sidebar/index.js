@@ -30,7 +30,7 @@ const Sidebar = ({ isOpen, toggle }) => {
                     spy={true}
                     exact='true'
                     offset={-80}
-                     onClick={toggle}
+           
                     >Discover</SidebarLink>
                     <SidebarLink to='services' onClick={toggle}
                     smooth={true}
@@ -38,7 +38,7 @@ const Sidebar = ({ isOpen, toggle }) => {
                     spy={true}
                     exact='true'
                     offset={0}
-                     onClick={toggle}
+            
                     >Services</SidebarLink>
                     <SidebarLink to='signup' onClick={toggle}
                     smooth={true}
@@ -46,7 +46,7 @@ const Sidebar = ({ isOpen, toggle }) => {
                     spy={true}
                     exact='true'
                     offset={-80}
-                     onClick={toggle}
+              
                     >Sign-Up</SidebarLink>
                 </SidebarMenu>
                 <SideBtnWrap to='/signin'>
