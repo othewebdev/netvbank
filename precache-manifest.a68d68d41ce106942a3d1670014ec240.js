@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e54bdcb3d7a64ff95002b905f2307b82",
+    "revision": "45db379fc1db11c2ca6e246c7947cb9e",
     "url": "/netvbank/index.html"
   },
   {
-    "revision": "6b99f17e0c5836119180",
+    "revision": "4e4b8f03ca202986554b",
     "url": "/netvbank/static/css/main.7b6cae3b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netvbank/static/js/2.57b15363.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6b99f17e0c5836119180",
-    "url": "/netvbank/static/js/main.2cd2daa9.chunk.js"
+    "revision": "4e4b8f03ca202986554b",
+    "url": "/netvbank/static/js/main.dfd4ed04.chunk.js"
   },
   {
     "revision": "6de93f4ade28d5673783",
