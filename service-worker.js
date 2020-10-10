@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/netvbank/precache-manifest.a68d68d41ce106942a3d1670014ec240.js"
+  "/netvbank/precache-manifest.f32986bc18bc4741761c2517d3fa0ae5.js"
 );
 
 self.addEventListener('message', (event) => {
